@@ -1,3 +1,5 @@
+this dataset encompasses the complete collection of writings by H.P. Lovecraft, a renowned author in the horror genre.
+
 # sources:
 
 https://www.hplovecraft.com/writings/fiction/
