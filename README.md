@@ -6,7 +6,7 @@ https://www.hplovecraft.com/writings/fiction/
 
 https://www.gutenberg.org/ebooks/author/34724
 
-# book list
+# content list
 1) Alchemist
 2) Ashes
 3) At The Mountains Of Madness
